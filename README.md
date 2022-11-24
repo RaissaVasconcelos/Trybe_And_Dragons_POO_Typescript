@@ -1,4 +1,4 @@
-# Projeto - Trybe and Dragons
+# Trybe and Dragons
 
 
 ![image](src/trybesmith.png)
