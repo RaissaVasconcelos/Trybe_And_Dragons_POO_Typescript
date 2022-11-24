@@ -1,7 +1,7 @@
 # Trybe and Dragons
 
 
-![image](src/trybesmith.png)
+![image](src/trybeSmithy.png)
 
 
 ## 
